@@ -1,4 +1,4 @@
-class Elevador:
+class Elevador():
     def __init__ (self, capacidade, total_andares):
         self.andar_atual = 0
         self.total_andares = total_andares
